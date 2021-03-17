@@ -13,3 +13,6 @@ My goal for the next few years is to improve these skills, I would like to maste
 
 <img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" width="21px" height="21px"> React.js
 
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/redux.svg" alt="Redux" width="21px" height="21px"> Redux
+
+
