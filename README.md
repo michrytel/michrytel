@@ -19,7 +19,7 @@ My goal for the next few years is to improve these skills, I would like to maste
 
 ### Simple Desktop Tetris App - JavaScript / CSS
 #### https://simple-tetris.herokuapp.com
-#### https://github.com/michrytel/te-tris
+#### https://github.com/michrytel/tetris
 
 ### CryptoCourse Page - React / SCSS / Mobile-first 
 #### https://cryptopage.herokuapp.com
