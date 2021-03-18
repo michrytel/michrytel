@@ -15,7 +15,11 @@ My goal for the next few years is to improve these skills, I would like to maste
 
 <img src="https://github.com/tomchen/stack-icons/blob/master/logos/redux.svg" alt="Redux" width="21px" height="21px"> Redux
 
-## Check out my first project:
-https://cryptopage.herokuapp.com/
+## Check out my projects:
 
+### JavaScript / CSS
+https://simple-tetris.herokuapp.com/
+
+### React / SCSS / Mobile-first 
+https://cryptopage.herokuapp.com/
 
