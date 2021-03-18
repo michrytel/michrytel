@@ -18,9 +18,9 @@ My goal for the next few years is to improve these skills, I would like to maste
 ## Check out my projects:
 
 ### JavaScript / CSS
-https://simple-tetris.herokuapp.com/
-https://github.com/michrytel/te-tris
+#### https://simple-tetris.herokuapp.com
+#### https://github.com/michrytel/te-tris
 
 ### React / SCSS / Mobile-first 
-https://cryptopage.herokuapp.com/
-https://github.com/michrytel/cryptopage
+#### https://cryptopage.herokuapp.com
+#### https://github.com/michrytel/cryptopage
