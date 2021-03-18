@@ -17,10 +17,10 @@ My goal for the next few years is to improve these skills, I would like to maste
 
 ## Check out my projects:
 
-### JavaScript / CSS
+### Simple Desktop Tetris App - JavaScript / CSS
 #### https://simple-tetris.herokuapp.com
 #### https://github.com/michrytel/te-tris
 
-### React / SCSS / Mobile-first 
+### CryptoCourse Page - React / SCSS / Mobile-first 
 #### https://cryptopage.herokuapp.com
 #### https://github.com/michrytel/cryptopage
