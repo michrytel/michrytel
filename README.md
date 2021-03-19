@@ -24,3 +24,6 @@ My goal for the next few years is to improve these skills, I would like to maste
 ### CryptoCourse Page - React / SCSS / Mobile-first 
 #### https://cryptopage.herokuapp.com
 #### https://github.com/michrytel/cryptopage
+
+### Photo gallery with Firebase connection
+#### https://github.com/michrytel/photo-gallery
