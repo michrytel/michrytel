@@ -25,5 +25,5 @@ My goal for the next few years is to improve these skills, I would like to maste
 #### https://cryptopage.herokuapp.com
 #### https://github.com/michrytel/cryptopage
 
-### Photo gallery with Firebase connection
+### Photo gallery - React / Firebase
 #### https://github.com/michrytel/photo-gallery
