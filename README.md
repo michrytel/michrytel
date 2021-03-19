@@ -17,7 +17,7 @@ My goal for the next few years is to improve these skills, I would like to maste
 
 ## Check out my projects:
 
-### Simple Desktop Tetris App - JavaScript / CSS
+### Simple Desktop/Mobile Tetris App - JavaScript / CSS
 #### https://simple-tetris.herokuapp.com
 #### https://github.com/michrytel/tetris
 
