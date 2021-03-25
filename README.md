@@ -1,8 +1,7 @@
 ## Hi!, I'm Michał Rytel
 ### Young, constantly learning front-end developer
 
-I am a young and ambitious student who slowly gathers his own experience baggage. Now, I'm learning programming to become a front-end developer. 
-My goal for the next few years is to improve these skills, I would like to master front-end skills and in the meantime develop back-end skills, so that in a few years when I go to work, after turning on the IDE, I will not feel any boundaries at all.
+I am a young and ambitious student who slowly accumulates my own experience. Now I am learning programming to become a front-end developer. My goal for the next few years is to improve these skills, I would like to master front-end skills and in the meantime develop back-end skills so that in a few years, after turning on the IDE, I would not feel any boundaries.
 
 ## Tech stack:
 <img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" width="21px" height="21px"> HTML5
