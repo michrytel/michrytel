@@ -24,7 +24,7 @@ I am a young and ambitious student who slowly accumulates my own experience. Now
 #### https://cryptopage.herokuapp.com
 #### https://github.com/michrytel/cryptopage
 
-### Twitter-Like front-end Challenge
+### Twitter-Like-App Front-end Challenge
 #### https://simple-twitter-like.herokuapp.com/
 #### https://github.com/michrytel/simple-twitter-like
 
