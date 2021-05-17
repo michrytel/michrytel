@@ -17,15 +17,15 @@ I am a young and ambitious student who slowly accumulates my own experience. Now
 ## Check out my projects:
 
 ### Simple Desktop/Mobile Tetris App - JavaScript / CSS
-#### https://simple-tetris.herokuapp.com
+#### https://simple-tetris-like.netlify.app/
 #### https://github.com/michrytel/tetris
 
 ### CryptoCourse Page - React / SCSS / Mobile-first 
-#### https://cryptopage.herokuapp.com
+#### https://simple-cryptopage.netlify.app/
 #### https://github.com/michrytel/cryptopage
 
 ### Twitter-Like-App Front-end Challenge
-#### https://simple-twitter-like.herokuapp.com/
+#### https://simple-twitter-like.netlify.app/
 #### https://github.com/michrytel/simple-twitter-like
 
 ### Photo gallery - React / Firebase
