@@ -16,9 +16,6 @@ I am a young and ambitious student who slowly accumulates my own experience. Now
 
 ## Check out my projects:
 
-### My first project - BestShop
-#### https://github.com/michrytel/BestShop
-
 ### Simple Desktop/Mobile Tetris App - JavaScript / CSS
 #### https://simple-tetris-like.netlify.app/
 #### https://github.com/michrytel/tetris
@@ -33,3 +30,6 @@ I am a young and ambitious student who slowly accumulates my own experience. Now
 
 ### Photo gallery - React / Firebase
 #### https://github.com/michrytel/photo-gallery
+
+### My first project - BestShop
+#### https://github.com/michrytel/BestShop
