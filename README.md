@@ -16,6 +16,9 @@ I am a young and ambitious student who slowly accumulates my own experience. Now
 
 ## Check out my projects:
 
+### My first project - BestShop
+#### github.com/michrytel/BestShop
+
 ### Simple Desktop/Mobile Tetris App - JavaScript / CSS
 #### https://simple-tetris-like.netlify.app/
 #### https://github.com/michrytel/tetris
